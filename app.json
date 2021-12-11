@@ -1,0 +1,14 @@
+﻿{
+    "name": "grjio",
+    "description": "bjiero",
+    "logo":"btrifk",
+    "keywords": ["jtedfw"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "hgberfdg/xrraynew",
+    "stack": "container"
+}
